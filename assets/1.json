@@ -1,0 +1,19 @@
+{
+    "name": "Evil Thanos Patrick",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "2Tarv5JGpZiVzuCTzmsXxJWywieaC3Cwfq8vRn9XhQfT",
+          "share": 100
+        }
+      ]
+    }
+  }
